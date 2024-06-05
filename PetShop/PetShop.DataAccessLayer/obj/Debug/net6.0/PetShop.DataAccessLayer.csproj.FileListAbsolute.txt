@@ -1,0 +1,14 @@
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\bin\Debug\net6.0\PetShop.DataAccessLayer.deps.json
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\bin\Debug\net6.0\PetShop.DataAccessLayer.dll
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\bin\Debug\net6.0\PetShop.DataAccessLayer.pdb
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.AssemblyInfoInputs.cache
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.AssemblyInfo.cs
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.dll
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\refint\PetShop.DataAccessLayer.dll
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.pdb
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\ref\PetShop.DataAccessLayer.dll
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\bin\Debug\net6.0\PetShop.DataAccessLayer.runtimeconfig.json
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.csproj.AssemblyReference.cache
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.genruntimeconfig.cache
