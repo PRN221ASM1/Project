@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "E:\\PRN221\\project\\git\\Project\\PetShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.businesslogiclayer\\petshop.businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|solutionrelative:petshop.businesslogiclayer\\petshop.businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.dataaccesslayer\\petshop.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|solutionrelative:petshop.dataaccesslayer\\petshop.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.businesslogiclayer\\bll\\accountsbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|solutionrelative:petshop.businesslogiclayer\\bll\\accountsbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.dataaccesslayer\\dal\\ordersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|solutionrelative:petshop.dataaccesslayer\\dal\\ordersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,16 +11,24 @@
       "RelativeMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|solutionrelative:petshop.dataaccesslayer\\dal\\accountsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.businesslogiclayer\\bll\\ordersbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|solutionrelative:petshop.businesslogiclayer\\bll\\ordersbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.dataaccesslayer\\dal\\interface\\ientitydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|solutionrelative:petshop.dataaccesslayer\\dal\\interface\\ientitydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.dataaccesslayer\\dbcontexts\\dtb_petshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|solutionrelative:petshop.dataaccesslayer\\dbcontexts\\dtb_petshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.businesslogiclayer\\bll\\accountsbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|solutionrelative:petshop.businesslogiclayer\\bll\\accountsbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.businesslogiclayer\\bll\\ordersbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|solutionrelative:petshop.businesslogiclayer\\bll\\ordersbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.dataaccesslayer\\petshop.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22B134C1-B429-427D-B045-CD50D08CFC5D}|PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj|solutionrelative:petshop.dataaccesslayer\\petshop.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|e:\\prn221\\project\\git\\project\\petshop\\petshop.businesslogiclayer\\petshop.businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8BA12E3-D217-4CC0-943D-5297EA9F0250}|PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj|solutionrelative:petshop.businesslogiclayer\\petshop.businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,99 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountsBLL.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\BLL\\AccountsBLL.cs",
-              "RelativeDocumentMoniker": "PetShop.BusinessLogicLayer\\BLL\\AccountsBLL.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\BLL\\AccountsBLL.cs",
-              "RelativeToolTip": "PetShop.BusinessLogicLayer\\BLL\\AccountsBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:10:25.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrdersBLL.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\BLL\\OrdersBLL.cs",
-              "RelativeDocumentMoniker": "PetShop.BusinessLogicLayer\\BLL\\OrdersBLL.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\BLL\\OrdersBLL.cs",
-              "RelativeToolTip": "PetShop.BusinessLogicLayer\\BLL\\OrdersBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:07:01.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountsDAO.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\AccountsDAO.cs",
-              "RelativeDocumentMoniker": "PetShop.DataAccessLayer\\DAL\\AccountsDAO.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\AccountsDAO.cs",
-              "RelativeToolTip": "PetShop.DataAccessLayer\\DAL\\AccountsDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:02:55.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PetShop.BusinessLogicLayer",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj",
-              "RelativeDocumentMoniker": "PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj",
-              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj",
-              "RelativeToolTip": "PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-05T06:59:49.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IEntityDao.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\Interface\\IEntityDao.cs",
-              "RelativeDocumentMoniker": "PetShop.DataAccessLayer\\DAL\\Interface\\IEntityDao.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\Interface\\IEntityDao.cs",
-              "RelativeToolTip": "PetShop.DataAccessLayer\\DAL\\Interface\\IEntityDao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:55:53.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrdersDAO.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\OrdersDAO.cs",
-              "RelativeDocumentMoniker": "PetShop.DataAccessLayer\\DAL\\OrdersDAO.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\OrdersDAO.cs",
-              "RelativeToolTip": "PetShop.DataAccessLayer\\DAL\\OrdersDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:53:27.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PetShop.DataAccessLayer",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj",
-              "RelativeDocumentMoniker": "PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj",
-              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj",
-              "RelativeToolTip": "PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-05T06:52:35.816Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -144,21 +49,8 @@
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DTB_PETSHOPContext.cs",
-              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DBContexts\\DTB_PETSHOPContext.cs",
-              "RelativeDocumentMoniker": "PetShop.DataAccessLayer\\DBContexts\\DTB_PETSHOPContext.cs",
-              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DBContexts\\DTB_PETSHOPContext.cs",
-              "RelativeToolTip": "PetShop.DataAccessLayer\\DBContexts\\DTB_PETSHOPContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:43:14.646Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -171,6 +63,96 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountsBLL.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\BLL\\AccountsBLL.cs",
+              "RelativeDocumentMoniker": "PetShop.BusinessLogicLayer\\BLL\\AccountsBLL.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\BLL\\AccountsBLL.cs",
+              "RelativeToolTip": "PetShop.BusinessLogicLayer\\BLL\\AccountsBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:10:25.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersBLL.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\BLL\\OrdersBLL.cs",
+              "RelativeDocumentMoniker": "PetShop.BusinessLogicLayer\\BLL\\OrdersBLL.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\BLL\\OrdersBLL.cs",
+              "RelativeToolTip": "PetShop.BusinessLogicLayer\\BLL\\OrdersBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:07:01.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsDAO.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\AccountsDAO.cs",
+              "RelativeDocumentMoniker": "PetShop.DataAccessLayer\\DAL\\AccountsDAO.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\AccountsDAO.cs",
+              "RelativeToolTip": "PetShop.DataAccessLayer\\DAL\\AccountsDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:02:55.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetShop.BusinessLogicLayer.csproj",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj",
+              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj",
+              "RelativeToolTip": "PetShop.BusinessLogicLayer\\PetShop.BusinessLogicLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T06:59:49.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEntityDao.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\Interface\\IEntityDao.cs",
+              "RelativeDocumentMoniker": "PetShop.DataAccessLayer\\DAL\\Interface\\IEntityDao.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\Interface\\IEntityDao.cs",
+              "RelativeToolTip": "PetShop.DataAccessLayer\\DAL\\Interface\\IEntityDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:55:53.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersDAO.cs",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\OrdersDAO.cs",
+              "RelativeDocumentMoniker": "PetShop.DataAccessLayer\\DAL\\OrdersDAO.cs",
+              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\DAL\\OrdersDAO.cs",
+              "RelativeToolTip": "PetShop.DataAccessLayer\\DAL\\OrdersDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:53:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetShop.DataAccessLayer.csproj",
+              "DocumentMoniker": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj",
+              "ToolTip": "E:\\PRN221\\project\\git\\Project\\PetShop\\PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj",
+              "RelativeToolTip": "PetShop.DataAccessLayer\\PetShop.DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T06:52:35.816Z",
+              "EditorCaption": ""
             }
           ]
         }

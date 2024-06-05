@@ -1,5 +1,7 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata;
 using PetShop.DataAccessLayer.Models;
 
 namespace PetShop.DataAccessLayer.DBContexts
@@ -21,7 +23,7 @@ namespace PetShop.DataAccessLayer.DBContexts
         public virtual DbSet<Customer> Customers { get; set; } = null!;
         public virtual DbSet<Department> Departments { get; set; } = null!;
         public virtual DbSet<Employee> Employees { get; set; } = null!;
-        public virtual DbSet<Gallery> Galleries { get; set; } = null!;
+        public virtual DbSet<Gallery> Gallerys { get; set; } = null!;
         public virtual DbSet<Order> Orders { get; set; } = null!;
         public virtual DbSet<OrderDetail> OrderDetails { get; set; } = null!;
         public virtual DbSet<PictureGallery> PictureGalleries { get; set; } = null!;
@@ -166,8 +168,6 @@ namespace PetShop.DataAccessLayer.DBContexts
 
             modelBuilder.Entity<Gallery>(entity =>
             {
-                entity.ToTable("Gallery");
-
                 entity.Property(e => e.Id).ValueGeneratedNever();
 
                 entity.Property(e => e.Title).HasMaxLength(50);
@@ -306,8 +306,6 @@ namespace PetShop.DataAccessLayer.DBContexts
 
             modelBuilder.Entity<Ship>(entity =>
             {
-                entity.ToTable("Ship");
-
                 entity.Property(e => e.Freight).HasColumnType("money");
 
                 entity.Property(e => e.OrderId).HasColumnName("OrderID");
@@ -331,8 +329,6 @@ namespace PetShop.DataAccessLayer.DBContexts
 
             modelBuilder.Entity<Shipper>(entity =>
             {
-                entity.ToTable("Shipper");
-
                 entity.Property(e => e.District).HasMaxLength(60);
 
                 entity.Property(e => e.Name).HasMaxLength(60);

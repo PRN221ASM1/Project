@@ -12,3 +12,4 @@ E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\r
 E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\bin\Debug\net6.0\PetShop.DataAccessLayer.runtimeconfig.json
 E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.csproj.AssemblyReference.cache
 E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.genruntimeconfig.cache
+E:\PRN221\project\git\Project\PetShop\PetShop.DataAccessLayer\obj\Debug\net6.0\PetShop.DataAccessLayer.sourcelink.json

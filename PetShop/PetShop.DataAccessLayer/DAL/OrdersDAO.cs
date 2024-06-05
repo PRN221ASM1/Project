@@ -2,7 +2,6 @@
 using PetShop.DataAccessLayer.DAL.Interface;
 using PetShop.DataAccessLayer.Models;
 
-
 namespace PetShop.DataAccessLayer.DAL
 {
     public class OrdersDAO :IEntityDao<Order>
